@@ -8,8 +8,8 @@
 
 ![](https://dl.dropbox.com/u/479174/hosting/frame/tiljson.png)
 
-## 3 Go to http://lxbarth.github.com/?[map ID]
+## 3 Go to http://smit1678.github.com/frame/?[map ID]
 
 Example:
 
-[lxbarth.github.com/frame/?lxbarth.map-v9o1vc83](http://lxbarth.github.com/frame/?lxbarth.map-v9o1vc83)
+[smit1678.github.com/frame/?smit1678.map-bpp1dk4x](http://smit1678.github.com/frame/?smit1678.map-bpp1dk4x)
