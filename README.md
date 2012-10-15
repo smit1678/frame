@@ -12,4 +12,4 @@
 
 Example:
 
-[smit1678.github.com/frame/?smit1678.map-bpp1dk4x](http://smit1678.github.com/frame/?smit1678.map-bpp1dk4x)
+[smit1678.github.com/frame/?nate.map-bpp1dk4x](http://smit1678.github.com/frame/?nate.map-bpp1dk4x)
